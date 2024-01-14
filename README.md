@@ -36,6 +36,7 @@ https://tsfresh.readthedocs.io/en/latest/text/list_of_features.html
 Out of all the features created with this package, I used statistical tests to determine the 20 most impactful ones, and then I appended the 8 features explained above. 
 
 The final database contained 28 features + the Volume
+
 Thanks :)
 
 
