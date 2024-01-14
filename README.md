@@ -4,9 +4,13 @@ The aim of this project is to create a complete database starting from a Time Se
 The final Database can be used to forecast an approximation of the Volume that will be traded in the near future for the chosen financial security. 
 
 The starting point for this project is a time series composed by:
+
 Day     |    Volume   |   Security
+
 01/01/23|   100,000   |   Equity1
+
 02/01/23|   110,000   |   Equity1
+
 03/01/23|   130,000   |   Equity1
 
 The aim of feature engineering on time series is to create some relevant exogenous variables that will provide more information to the model, but that will still maintain the "time order" logic of the time series.
